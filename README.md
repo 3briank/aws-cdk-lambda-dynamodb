@@ -16,7 +16,7 @@ Simple use of AWS CDK for HTTP API Gateway, Lambda, and DynamoDB.
 npm install && npm install --prefix layers/aws-sdk/nodejs
 ```
 
-3. Create the CloudFormation stack using and deploy it using CDK
+3. Create the CloudFormation stack and deploy it using CDK
 
 ```
 cdk deploy
