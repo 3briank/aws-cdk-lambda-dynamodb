@@ -22,4 +22,4 @@ npm install && npm install --prefix layers/aws-sdk/nodejs
 cdk deploy
 ```
 
-Open CloudFormation in the AWS Console
+4. Open CloudFormation in the AWS Console
